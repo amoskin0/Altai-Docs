@@ -1,0 +1,93 @@
+ALTAI EDITOR LICENSE
+Version 2.0, October 29, 2026
+Copyright (c) 2026 Anton Moskin. All rights reserved.
+
+1. Scope
+
+This proprietary license governs this version of Altai Editor, its executable,
+implementation source if separately provided, artwork and related product
+materials (the "Editor"). Source access does not grant modification or public
+redistribution rights. Separately licensed components remain subject to their
+own terms in THIRD-PARTY-NOTICES.txt. Public language documentation has its own
+Creative Commons Attribution 4.0 International license.
+
+2. Free and commercial use
+
+An authorized Free entitlement permits personal, noncommercial learning,
+evaluation, prototyping and testing with the functionality actually supplied.
+Commercial work requires an active eligible Altai Plus, Pro, Business or other
+commercial subscription expressly offered by Anton Moskin (the "Licensor").
+Commercial work includes development for an employer or client, business
+operations, commercial products or services and monetized applications.
+No-charge distribution does not make a business purpose noncommercial.
+Plan-specific eligibility, seats, functionality, prices and monetization
+rights are stated in the terms presented before purchase or activation.
+Naming a plan does not promise that it is already available. You may install
+the Editor and make reasonable backups only as allowed by your entitlement.
+
+3. Your applications
+
+You retain rights to your original files, code and applications. This license
+does not require their source disclosure or grant them to the Licensor.
+Applications lawfully released under a valid commercial entitlement may
+continue to run, be distributed, be sold and generate revenue after that
+subscription expires. Expiration alone does not revoke this permission.
+Further commercial development, maintenance through the Editor, new builds,
+new releases and commercial service access require a current entitlement.
+The separately bundled Altai tool and emitted runtime are governed by
+licenses/Altai-LICENSE.txt; third-party rights remain applicable.
+
+4. Restrictions
+
+Except with separate written authorization, you may not modify, patch,
+translate, create derivative versions of, publicly redistribute, sublicense,
+sell or rent the Editor, its implementation source or its artwork. You may
+not remove required notices, bypass account/subscription/feature restrictions,
+or misrepresent an unofficial product as an official Altai product. Reverse
+engineering, decompilation and disassembly are prohibited except where
+applicable law permits them despite this restriction. All rights not
+expressly granted are reserved.
+
+5. Independent extensions
+
+You may independently develop, use and distribute compatible plugins, themes
+and integrations through documented extension interfaces when those
+interfaces are available, including commercial extensions. You retain their
+ownership and choose their licenses. This permission does not include copying
+or modifying Editor implementation code or artwork, bypassing entitlements
+or implying endorsement. Future SDKs and marketplaces may have separately
+stated terms. This license does not promise that an extension API or SDK is
+implemented. Commercial use of Altai tools to develop an extension still
+requires the applicable commercial entitlement.
+
+6. Earlier copies, updates and separate licenses
+
+This license governs this version. It does not retroactively change rights
+for copies legitimately received under the earlier Altai Editor free-use
+license version 1.0, MIT or another applicable license. The font remains under
+SIL Open Font License 1.1; required notices and component rights remain intact.
+Future versions or plans may use different terms presented with them; this
+does not silently rewrite grants for an earlier licensed copy. Updates,
+support, subscriptions and future functionality are not guaranteed.
+
+7. Availability and mandatory rights
+
+License conditions do not by themselves establish that billing, entitlement
+verification, hosted execution or any other enforcement feature is present.
+Actual product features and separate service terms determine availability.
+To the extent permitted by applicable law, the Editor is provided "as is"
+without warranties of merchantability, fitness for a particular purpose,
+non-infringement, uninterrupted operation or absence of defects. To that same
+extent, the Licensor is not liable for indirect or consequential loss, lost
+profits or lost data. Nothing excludes liability or limits rights that law
+does not allow to be excluded or limited, including mandatory consumer rights
+and applicable copyright exceptions.
+
+8. Termination
+
+Permissions depend on compliance and the applicable entitlement. A material
+breach terminates affected permissions to the extent permitted by law. Stop
+using and remove copies you are no longer entitled to possess. Termination
+does not transfer your work, revoke separate component licenses or override
+the application-continuity permission in section 3. An invalid provision does
+not invalidate remaining provisions where they can operate lawfully.

@@ -1,0 +1,128 @@
+ALTAI PLATFORM LICENSE
+Version 1.0, October 29, 2026
+Copyright (c) 2026 Anton Moskin. All rights reserved.
+
+1. Covered software and separate materials
+
+This license governs copies of the Altai compiler, interpreter, native-code
+generator, bundled Altai runtime implementation and related implementation
+source distributed or made available with this license (the "Software"). It
+does not grant access to implementation source merely because a user has an
+Altai account or subscription. Source access, where separately granted, does
+not itself grant modification or redistribution rights.
+
+Public Altai documentation is separately licensed under Creative Commons
+Attribution 4.0 International. Third-party components retain their own licenses.
+This license does not grant ownership of your application code to the Licensor,
+license your own work back to the Licensor, or require its source disclosure.
+
+2. Authorized Altai products
+
+Use of this copy is permitted only through official products or services
+published or expressly authorized by Anton Moskin (the "Licensor"). Authorized
+products may include Altai Editor, Altai Studio, Altai Code, Altai Engine and
+other expressly authorized Altai software. Naming a product here does not
+state that it, a subscription, or any particular feature is already available.
+
+An official product may include a local compiler or interpreter component.
+You may run that component only as authorized for the product and your plan.
+No permission is granted to extract and redistribute the toolchain, offer it
+as an independent service, embed it in an unauthorized product, or use a
+separately obtained standalone copy outside an authorized Altai product.
+
+3. Free use and commercial plans
+
+An authorized Free plan permits personal, noncommercial learning, evaluation,
+prototyping and testing, subject to the capabilities actually supplied with
+that plan. Free does not authorize commercial use of the Software or services.
+
+Commercial use requires an active, eligible Plus, Pro, Business or other
+commercial subscription expressly offered by the Licensor. This includes
+using the Software for an employer or client, operating a business, producing
+or maintaining a commercial product or service, paid distribution, advertising,
+subscriptions, in-app purchases and other monetization. A business purpose
+can be commercial even when its application is provided without charge.
+
+Plan-specific functionality, eligibility, seats and monetization entitlements
+must be stated in the plan terms presented before purchase or activation.
+Revenue thresholds, royalties, per-install fees and payment amounts apply
+only when expressly stated in plan terms accepted before purchase or
+activation. Naming a plan does not promise its current availability or grant an upgrade
+to a plan you have not obtained.
+
+4. Your applications and generated output
+
+You retain rights in your original application code and other original work.
+Subject to a valid commercial entitlement when the relevant Software is used,
+you may develop commercial applications through an authorized Altai product.
+Generated output does not become the Licensor's property merely because it
+was generated with Altai. This does not change third-party rights in material
+you supply or incorporate.
+
+If a generated application contains Altai runtime machine code necessarily
+emitted by an authorized toolchain, the output permission also covers that
+runtime only as an inseparable part of that application. It does not permit
+extraction of a compiler, standalone redistribution of the runtime, source
+disclosure, or offering an unauthorized Altai execution/build service.
+
+Applications lawfully released under a valid commercial entitlement may
+continue to run, be distributed, be sold and generate revenue after that
+subscription expires. Expiration alone does not revoke this permission or
+require end users of those releases to obtain an Altai subscription. Further
+commercial development, maintenance through the Software, new builds, new
+releases and continued use of commercial Altai services require a current,
+eligible entitlement. Your own work remains yours.
+
+5. Restrictions
+
+Except with separate written authorization, you may not modify, translate,
+patch, distribute, sublicense, rent, sell, publish or create derivative versions
+of the Software or its implementation source. You may not bypass account,
+subscription, license or feature restrictions, remove required notices, or
+misrepresent an unofficial implementation as an official Altai product.
+Reverse engineering, decompilation and disassembly are prohibited except to
+the extent applicable law permits them despite this restriction.
+
+You may make reasonable backup copies of a component you are entitled to
+possess. Internal installation is limited by the relevant product and plan
+terms. All rights not expressly granted are reserved. Nothing here claims
+exclusive rights over unprotectable ideas, general programming techniques,
+or a language spelling independently of rights recognized by applicable law.
+
+6. Earlier grants and component rights
+
+These terms govern this copy under this license. They do not retroactively
+revoke permissions for copies legitimately received under an earlier MIT
+license or another applicable license. Changing repository visibility or
+deleting a repository does not change rights already granted. Required
+third-party notices and licenses continue to apply independently.
+
+7. Availability, enforcement and changes
+
+This license describes permissions; it does not represent that account,
+billing, entitlement verification, a hosted execution service, a sandbox or
+any particular enforcement mechanism is implemented. A product's actual
+published features and separate service terms determine its availability.
+Future versions or plans may have different terms presented with them; this
+clause does not silently rewrite grants for an earlier licensed copy.
+
+8. Warranty, liability and mandatory rights
+
+To the extent permitted by applicable law, the Software is provided "as is"
+without warranties of merchantability, fitness for a particular purpose,
+non-infringement, uninterrupted operation or absence of defects. To that same
+extent, the Licensor is not liable for indirect or consequential loss, lost
+profits or lost data arising from the Software. Nothing excludes liability
+or limits rights that applicable law does not allow to be excluded or limited,
+including mandatory consumer rights and applicable exceptions to copyright.
+
+9. Termination
+
+Rights to use the Software depend on compliance with this license and the
+applicable entitlement. A material breach terminates the affected permission
+to the extent permitted by law. Stop using and remove Software copies you
+are no longer entitled to possess. Termination does not transfer ownership
+of your original work, revoke separate component licenses, or override the
+output-continuity permission expressly stated in section 4. Invalidity of one
+provision does not invalidate the remaining provisions where they can
+operate lawfully.
